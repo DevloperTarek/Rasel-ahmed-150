@@ -1,0 +1,35 @@
+
+/* .service-bg{background-image: url('../img/image-jpg-1.jfif');}
+.service-bg-2{background-image: url('../img/image-jpg-2.jfif');}
+.service-bg-3{background-image: url('../img/image-jpg-3.jfif');}
+.service-bg-4{background-image: url('../img/image-jpg-4.jfif');}
+.service-bg-5{background-image: url('../img/image-jpg-5.jfif');} */
+
+.single-service-item {
+    display: block;
+    margin-bottom: 30px;
+}
+
+.service-bg img {
+    width: 100%;
+    /* margin-bottom: 30px; */
+}
+
+.single-service-item h2.title {
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    background: #7e0807;
+    padding: 20px;
+    margin: 0;
+}
+.service-bg-wrap {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.service-bg {
+    display: table-cell;
+    vertical-align: middle;
+}

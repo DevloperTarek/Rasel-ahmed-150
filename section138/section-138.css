@@ -1,0 +1,17 @@
+.test-popup {
+     margin-left: 50%;
+     transform: translateX(-50%);
+ }
+ 
+ .test-popup > i {
+     font-size: 25px;
+     width: 70px;
+     height: 70px;
+     background: #ddd;
+     border: 0;
+     box-shadow: 0 0 5px 0 #444;
+     text-align: center;
+     line-height: 70px;
+     border-radius: 50%;
+     color: #fff;
+ }
